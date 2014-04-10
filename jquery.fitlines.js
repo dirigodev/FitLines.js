@@ -2,7 +2,7 @@
 /*!
 * FitLines.js 1.0
 *
-* Copyright 2014, Derek Wheelden http://github.com/frxnz
+* Copyright 2014, Dirigo Design & Development http://github.com/dirigodev
 * Released under the MIT license
 *
 */
