@@ -1,0 +1,18 @@
+{
+  "name": "FitLines.js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/dirigodev/FitLines.js",
+  "authors": [
+    "Dirigo Design & Development"
+  ],
+  "description": "A jQuery plugin for fitting lines of text to fill their parent container",
+  "main": "./src/jquery.fitlines.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
